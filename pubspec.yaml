@@ -1,0 +1,16 @@
+name: streamjoin
+version: 1.0.0
+description: A type-safe Dart library for joining multiple streams into a single stream.
+repository: https://github.com/interacsion/streamjoin
+
+environment:
+  sdk: ^3.0.0
+
+dev_dependencies:
+  lints: ^2.1.0
+
+topics:
+  - util
+  - streams
+  - extension
+  - async
